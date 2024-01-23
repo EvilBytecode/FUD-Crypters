@@ -1,7 +1,14 @@
-# EvilBytecode Crypter
+# EvilBytecode Crypter aka Kitty Crypter
 -----
+```powershell
+88  dP 88 888888 888888 Yb  dP      dP""b8 88""Yb Yb  dP 88""Yb 888888 888888 88""Yb 
+88odP  88   88     88    YbdP      dP   `" 88__dP  YbdP  88__dP   88   88__   88"Yb  
+88"Yb  88   88     88     8P       Yb      88"Yb    8P   88"""    88   88""   88"Yb  
+88  Yb 88   88     88    dP         YboodP 88  Yb  dP    88       88   888888 88  Yb 
 
-## Info About Evilbytecode Crypter
+```
+
+## Info About Evilbytecode Crypter aka Kitty Crypter
 
 This tool obfuscates scripts in PowerShell and Python, creating obfuscated payloads to evade antivirus detection.
 ----
