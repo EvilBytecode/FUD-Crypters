@@ -9,8 +9,11 @@
 ```
 
 ## Info About Evilbytecode Crypter aka Kitty Crypter
-
 This tool obfuscates scripts in PowerShell and Python, creating obfuscated payloads to evade antivirus detection.
+
+# Preview
+<img src="https://cdn.discordapp.com/attachments/1193623153319088311/1199377550628114492/image.png?ex=65c25263&is=65afdd63&hm=7abaded494c622e2e05438dee9292d23724697572aa332e079d002bbb5a9d126&">
+
 ----
 # Features:
 - Obfuscated scripts evade antivirus detection.
@@ -18,6 +21,11 @@ This tool obfuscates scripts in PowerShell and Python, creating obfuscated paylo
 - Works greatly with mal payloads!
 
 ***
+
+## How to Run the file?
+```powershell
+Powershell -File .\Crypter.ps1
+```
 
 ## Todo:
 - Batch
@@ -30,6 +38,18 @@ This software's main purpose is NOT to be used maliciously, or on any system tha
 By using this software, you automatically agree to the above.
 
 ***
+
+# :eye: With Crypter:
+<p align="center">
+  <img src="https://i.imgur.com/aT1qUBA.jpg">
+</p>
+
+# :eye: Without Crypter:
+<p align="center">
+  <img src="https://i.imgur.com/XyikZDC.jpg">
+</p>
+
+
 
 ## Author
 
