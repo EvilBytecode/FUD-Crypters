@@ -24,7 +24,7 @@ if ($langchoice -ne '1' -and $langchoice -ne '2') {
 
 $ToEncrypt = Read-Host "[+] Please enter the full path of the file you want to encrypt"
 
-$ToEncrypt = $ToEncrypt -replace '^"|"$'
+$ToEncrypt = $ToEncrypt -replace '^"|"$' # i had path issues now supports with quoetes and without them
 
 if (-not $ToEncrypt -or -not (Test-Path $ToEncrypt)) {
     Write-Host "[-] Error: The specified file path is invalid or does not exist." -ForegroundColor Red
